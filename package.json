@@ -1,0 +1,26 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface",
+  "main": "liri.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanttran/LIRI-bot.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "Alan Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanttran/LIRI-bot/issues"
+  },
+  "homepage": "https://github.com/alanttran/LIRI-bot#readme"
+}
