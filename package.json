@@ -4,7 +4,9 @@
   "description": "Language Interpretation and Recognition Interface",
   "main": "liri.js",
   "dependencies": {
-    "request": "^2.81.0"
+    "node-spotify-api": "^1.0.5",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
   },
   "devDependencies": {},
   "scripts": {
